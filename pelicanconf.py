@@ -38,3 +38,6 @@ MARKUP = ('md', 'ipynb')
 
 PLUGIN_PATH = './plugins'
 PLUGINS = ['ipynb.markup']
+
+THEME = "themes/iris"
+GITHUB_URL = "https://calcnumerico.github.io"
