@@ -11,8 +11,6 @@ def df(x):
 chute=100 
 epsilon=0.001
 
-
-
 x=chute
 
 fig = plt.figure()
