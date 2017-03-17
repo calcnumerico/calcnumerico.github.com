@@ -46,6 +46,4 @@ def animate(i):
     return line,pts
     
 ani = animation.FuncAnimation(fig, animate, init_func=init,
-                        frames=n, interval=100, blit=True)  
-                        
-plt.show()
+                        frames=n, interval=100, blit=True)

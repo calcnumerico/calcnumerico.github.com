@@ -3,6 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Jo\xe3o Paix\xe3o'
+COAUTHOR = u'Laura Moraes'
 SITENAME = u'Blog de C\xe1lculo Num\xe9rico'
 SITEURL = ''
 
